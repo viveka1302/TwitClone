@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    
+}
+.Username{
+    font-weight: bold;
+    font-size: medium;
+    cursor: pointer;
+}
+.Tweet {
+}
+em {
+    color: aqua;
+    cursor: pointer;
+}
+body{
+    background-color:darkgrey;
+}
+.SideBar{
+    float: left;
+    width: 33.33%;
+    padding: 25px;
+
+}
+.Sidebutt{
+    cursor: pointer;
+    text-decoration: chocolate;
+}
+.Twits{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+.Rightbar{
+    float: right;
+    padding 10px;
+}
